@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stoyandg
 - 👀 I’m interested in Digital Marketing (Paid Media, Social Media Marketing), Investing (Stocks, Crypto, Commodities), Personal Finance, Reading Books, Poker, Football, Programming
-- 🌱 I’m currently learning Python and PHP
+- 🌱 I’m currently learning!
 - 📫 How to reach me - stoyandg@yahoo.com is where you can reach me.
 
 <!---
